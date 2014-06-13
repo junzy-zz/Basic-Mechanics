@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: e37fc8382926bdb4b81a56b5fe2e79ef
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: SS2_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 872
+        width: 74
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 847
+        width: 88
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 872
+        width: 73
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 872
+        width: 71
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 854
+        width: 77
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 854
+        width: 97
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_6
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 904
+        width: 164
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 804
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 722
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 716
+        width: 87
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 580
+        width: 183
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 789
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_12
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 805
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 711
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 549
+        width: 106
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 548
+        width: 126
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 604
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 548
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 388
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 390
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 391
+        width: 96
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 389
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 419
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 459
+        width: 174
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_24
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 368
+        width: 169
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 95
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 207
+        width: 81
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 206
+        width: 95
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 207
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_29
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 238
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_30
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 200
+        width: 98
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_31
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 241
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_32
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 201
+        width: 72
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SS2_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 29
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SS2_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 29
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
